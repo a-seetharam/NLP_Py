@@ -1,1 +1,1 @@
-Understanding NLP Vectorization with epic Ramayana
+Understanding NLP Vectorization with the epic Ramayana
